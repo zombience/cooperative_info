@@ -1,6 +1,6 @@
 # Member financial snapshot (template)
 
-Each household fills this in **privately** first. Then the group decides what to share. Don't commit personal financial details to this repository; keep filled-in copies off GitHub (a private shared drive works).
+Each household fills this in **privately** first. Then the group decides what to share. **This repository and website are public.** Never commit filled-in copies. Keep them in a private shared drive.
 
 The point is to find out early whether the plan fits everyone, rather than discovering it at closing.
 
