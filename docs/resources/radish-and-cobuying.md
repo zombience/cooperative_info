@@ -36,5 +36,5 @@ Links checked 2026-10-04.
 ## What Radish teaches us (and what it doesn't)
 - **Separate the "owner" hat from the "resident" hat.** Even if every owner lives there, being clear about which decisions are about capital and which are about daily life prevents a lot of conflict.
 - **Exit is the hard part.** Radish never had a share-pricing formula and ended with a full sale. Our group expects members to join and leave at different times, so we need a written buy-in and buyout mechanism from day one (see [Step 5](../learning-path/05-joining-and-exiting.md)).
-- **Pay founders back explicitly.** Radish treated founders' upfront costs as a loan with a repayment schedule. That maps directly onto our "four now, two later" problem.
+- **Pay founders back explicitly.** Radish treated founders' upfront costs as a loan with a repayment schedule. That maps directly onto our "two now, one later" problem.
 - **Not covered by Radish:** reserve policy, how shares are valued, and how the sale proceeds were split. Look elsewhere for these ([finance resources](finance-and-structures.md)).

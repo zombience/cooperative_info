@@ -6,9 +6,10 @@ The plan is to self-educate first and then hire a financial professional (a CPA 
 - [ ] Does our pro forma budget (income, carrying charges, expenses, reserves) hold up? What did we underestimate?
 - [ ] Are our replacement and operating reserves sized sensibly for this building's age and condition?
 - [ ] Given lender requirements (LTV, DSCR), how much equity do we really need at closing?
-- [ ] How should we treat the two later members' shares until they join, financially and on the books?
+- [ ] How should we treat the later household's share until it joins, financially and on the books?
 - [ ] Is our resale formula (if limited equity) fair to both exiting and incoming members over 5, 10, and 20 years?
-- [ ] Can the co-op absorb one member leaving suddenly? Model the cash flow.
+- [ ] With only three households, can the co-op absorb one leaving suddenly? Model the cash flow.
+- [ ] 3-flat vs. 4-flat with a rented unit: which is financially sounder for us, including taxes?
 
 ## Tax
 - [ ] Will we qualify for Section 216 treatment? What has to be true every year to keep it?

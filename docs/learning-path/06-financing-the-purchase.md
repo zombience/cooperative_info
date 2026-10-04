@@ -30,7 +30,7 @@ See [5 ways to get a loan when co-buying](https://supernuclear.substack.com/p/5-
 - 🟡 [An Introduction to Financing Cooperative Businesses](https://cdn.ofn.org/uploads/2022/01/24093430/intro-to-financing-cooperatives.pdf) (CCLF)
 
 ## Discuss
-1. What total project cost can we support? Work it backward from what members can put in (snapshots) and what monthly cost we can carry.
+1. 3-flat or 4-flat? What total project cost can we support? Work it backward from what members can put in (snapshots) and what monthly cost we can carry.
 2. Who's willing to personally guarantee a loan? On what terms?
 3. Who will make the first calls: the Center for Shared Ownership, Shared Capital, and CCLF?
 

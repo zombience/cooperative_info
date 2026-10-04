@@ -9,7 +9,7 @@ Links checked 2026-10-04. City programs change, so confirm a program is still ru
 |---|---|
 | [Chicago Housing Cooperatives, Explained](https://www.citybureau.org/newswire/2022/11/2/chicago-housing-cooperatives-explained) (City Bureau / Chicago Reader, 2022) | The best short local primer: zero-equity, limited-equity and market-rate co-ops, and Chicago's co-op history. |
 | [Housing cooperatives FAQ](https://www.illinoislegalaid.org/index%2ephp/legal-information/housing-cooperatives) (Illinois Legal Aid Online) | Plain-language Illinois basics: proprietary leases, board approval of sales, rights of first refusal, carrying charges. |
-| [Holding the Line: Inside Chicago's Trailblazing Housing Cooperatives](https://eps.edu.miami.edu/_assets/pdf/chicago-field-note-new-generation-housing-cooperatives.pdf) (COLA Lab, University of Miami, 2026) | Case studies of Logan Square Cooperative (8 units), Pilsen Housing Co-op and La Villita. They closed **financing gaps with seller financing, founder bridge loans, local lenders, and city funds**. Very relevant to our "four now, two later" problem. |
+| [Holding the Line: Inside Chicago's Trailblazing Housing Cooperatives](https://eps.edu.miami.edu/_assets/pdf/chicago-field-note-new-generation-housing-cooperatives.pdf) (COLA Lab, University of Miami, 2026) | Case studies of Logan Square Cooperative (8 units), Pilsen Housing Co-op and La Villita. They closed **financing gaps with seller financing, founder bridge loans, local lenders, and city funds**. Very relevant to our "two now, one later" problem. |
 | [Housing Cooperative Guide](https://resurrectionproject.org/wp-content/uploads/2025/02/TRP-Co-Op-Guide.pdf) (The Resurrection Project, PDF) | A Chicago nonprofit's guide to forming a true co-op corporation: articles of incorporation, bylaws, occupancy agreements, the Section 216 tax rule. |
 
 ## Illinois law (orientation only)
@@ -43,7 +43,7 @@ Chicago property taxes are high, so taxes are a major budget line and a major ri
 ## Landlord-tenant
 | Source | Why it matters |
 |---|---|
-| [Chicago Residential Landlord and Tenant Ordinance](https://www.tenants-rights.org/?p=420) (text reposted by the Metropolitan Tenants Organization) | Co-op units occupied only by shareholders are excluded from the ordinance. **If we rent a unit to a non-member** (for example, while waiting for the later two members), the ordinance probably applies to that unit. |
+| [Chicago Residential Landlord and Tenant Ordinance](https://www.tenants-rights.org/?p=420) (text reposted by the Metropolitan Tenants Organization) | Co-op units occupied only by shareholders are excluded from the ordinance. **If we rent a unit to a non-member** (for example, while waiting for the later household, or a fourth unit in a 4-flat), the ordinance probably applies to that unit. |
 
 ## Local organizations, lenders, and programs
 | Organization | Why |

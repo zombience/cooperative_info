@@ -18,7 +18,7 @@ We've self-educated so that professional time goes to *checking our thinking* ra
 1. Purpose statement (Step 1)
 2. Structure decision and the lawyer's memo (Step 3)
 3. Equity model and resale formula (Step 4)
-4. Bridging plan for the later two members, plus exit rules (Step 5)
+4. Plan for covering the gap until the later household joins, plus exit rules (Step 5)
 5. Financing terms (Step 6)
 6. Operating budget and reserve plan (Step 7)
 7. Tax questions (Step 8)
