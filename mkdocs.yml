@@ -1,0 +1,85 @@
+site_name: Cooperative Info
+site_description: A learning hub for forming a housing cooperative in Chicago.
+site_url: https://zombience.github.io/cooperative_info/
+repo_url: https://github.com/zombience/cooperative_info
+edit_uri: edit/main/docs/
+copyright: Educational material, not legal, tax, or financial advice.
+
+# Only files under docs/ become pages on the site. The repository itself
+# is public too, so nothing private belongs anywhere in it.
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/home-group
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.footer
+    - navigation.top
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Learning path:
+      - Start here: learning-path/00-start-here.md
+      - 1. What a housing co-op is: learning-path/01-what-is-a-housing-coop.md
+      - 2. Case study, Radish: learning-path/02-case-study-radish.md
+      - 3. Ownership structures: learning-path/03-ownership-structures.md
+      - 4. Equity models: learning-path/04-equity-models.md
+      - 5. Joining and leaving: learning-path/05-joining-and-exiting.md
+      - 6. Financing the purchase: learning-path/06-financing-the-purchase.md
+      - 7. Budget and reserves: learning-path/07-budget-and-reserves.md
+      - 8. Taxes and insurance: learning-path/08-taxes-and-insurance.md
+      - 9. Governance: learning-path/09-governance.md
+      - 10. Professionals and closing: learning-path/10-working-with-professionals.md
+  - Resources:
+      - Radish and co-buying: resources/radish-and-cobuying.md
+      - Finance and structures: resources/finance-and-structures.md
+      - Chicago and Illinois: resources/chicago-illinois.md
+      - Organizations: resources/organizations.md
+  - Worksheets:
+      - "Four now, two later": worksheets/scenario-staggered-entry.md
+      - Member snapshot: worksheets/member-snapshot.md
+      - Questions for our lawyer: worksheets/questions-for-our-lawyer.md
+      - Questions for a financial professional: worksheets/questions-for-a-financial-advisor.md
+      - Decision log: worksheets/decision-log.md
+  - Glossary: glossary.md
