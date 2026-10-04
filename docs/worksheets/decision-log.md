@@ -32,5 +32,6 @@ Tick these off as they land in the log. Each links to the learning-path step tha
 - [ ] 3-flat or 4-flat, and the budget: max price, equity, loan ([Step 6](../learning-path/06-financing-the-purchase.md), [Step 7](../learning-path/07-budget-and-reserves.md))
 - [ ] Lender shortlist ([Step 6](../learning-path/06-financing-the-purchase.md))
 - [ ] How carrying charges are split between units ([Step 7](../learning-path/07-budget-and-reserves.md))
-- [ ] Governance: board, meetings, how we decide ([Step 9](../learning-path/09-governance.md))
+- [ ] Voting structure: who votes, and what each kind of decision needs ([Step 9](../learning-path/09-governance.md#voting-structures-to-consider))
+- [ ] Governance: board, meetings, deadlock plan ([Step 9](../learning-path/09-governance.md))
 - [ ] Which financial professional reviews our plan ([Step 10](../learning-path/10-working-with-professionals.md))

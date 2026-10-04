@@ -17,7 +17,7 @@ Read **[Worked example: two households now, one later](../worksheets/scenario-st
 - **What does it commit to now?** A signed subscription agreement with a deposit gives everyone certainty. A handshake is cheaper but riskier.
 - **Who covers its share of costs until it joins?** Founders, rental income, or reserves. Note the [tax caution about renting to non-members](../worksheets/scenario-staggered-entry.md#monthly-carrying-charges).
 - **What if it doesn't join?** The co-op should be free to offer the membership to someone else.
-- **Does it get a say before joining?** Consider involving the later couple in big decisions now, without votes, so they feel ownership of the choices they will inherit.
+- **Does it get a say before joining?** Consider involving the later couple in big decisions now, with an advisory voice or a limited vote ([options in Step 9](09-governance.md#ways-to-combine-them)), so they feel ownership of the choices they will inherit.
 
 ## Leaving: things to settle
 - **Notice period:** for example 90 to 180 days.

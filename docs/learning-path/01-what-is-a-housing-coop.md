@@ -6,7 +6,7 @@
 ## Key ideas
 - In a **true housing co-op**, a corporation owns the building. Members own **shares** and get the right to live in a unit through an **occupancy agreement**. Members pay a monthly **carrying charge** that covers the building's costs.
 - The co-op usually has **one mortgage on the whole building** (a blanket mortgage). If one member can't pay, the others feel it.
-- Governance is democratic: typically **one member, one vote**, regardless of unit size.
+- Governance is democratic: typically **one member, one vote**, regardless of unit size. Other voting structures are possible ([Step 9](09-governance.md#voting-structures-to-consider) compares them).
 - Co-ops differ mainly in **what you get back when you leave**: market rate, limited equity, or zero equity (Step 4).
 - Many friend groups (including Radish) use an **LLC** instead. It behaves "co-op-ish" but is legally and for tax purposes a different thing (Step 3).
 
