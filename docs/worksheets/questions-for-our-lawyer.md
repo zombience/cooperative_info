@@ -12,6 +12,7 @@ Our co-op attorney handles the legal structure. This list is so we show up prepa
 - [ ] Can the founding members lend money to the co-op (member loans) that is repaid when the later members buy in? How should those notes be documented?
 - [ ] How should the bylaws handle a member who wants to leave, a member who can't pay, divorce or breakup, death, or a member who wants to rent out their unit?
 - [ ] What approval process can we legally require for new members, and what fair housing rules apply?
+- [ ] Which voting structures can our entity type support: one vote per household, one per person, weighted by equity, or different rules for different decisions? Can the later household have an advisory or limited vote before it joins?
 - [ ] If we choose limited equity, how do we write the resale formula so it's enforceable and can't easily be voted away?
 
 ## Property, taxes, transfers
