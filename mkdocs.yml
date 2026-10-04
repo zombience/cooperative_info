@@ -5,8 +5,8 @@ repo_url: https://github.com/zombience/cooperative_info
 edit_uri: edit/main/docs/
 copyright: Educational material, not legal, tax, or financial advice.
 
-# Only files under docs/ are published. Anything elsewhere in the repo
-# (including private/) stays in the repository and never reaches the site.
+# Only files under docs/ become pages on the site. The repository itself
+# is public too, so nothing private belongs anywhere in it.
 docs_dir: docs
 
 theme:
