@@ -9,7 +9,7 @@ If we form a true housing co-op that qualifies under [IRC § 216](https://www.la
 - **one class of stock**, and
 - one of three tests: 80% of income from member-residents, 80% of floor space used by member-residents, or 90% of spending on the property.
 
-**Watch:** renting units to non-members (for example, while waiting for our later two members) can break the 80% income test. An LLC (Radish model) doesn't get Section 216 treatment at all.
+**Watch:** renting units to non-members can break the 80% income test. That includes renting the third unit while waiting for the later household, or a permanently rented fourth unit in a 4-flat. An LLC (Radish model) doesn't get Section 216 treatment at all.
 
 How members calculate it: [IRS Publication 530](https://www.irs.gov/publications/p530).
 

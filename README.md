@@ -2,7 +2,7 @@
 
 A shared learning hub for our group as we form a **housing cooperative in Chicago**.
 
-We're six households. Four are buying in now and two plan to join in about two years. We're buying one property. We care more about community than about financial gain, while being realistic about the financial system we live in.
+We're three households (three couples, six people). Two households are buying in now and one plans to join in about two years. We're buying one property, likely a Chicago 3-flat or 4-flat. We care more about community than about financial gain, while being realistic about the financial system we live in.
 
 Our co-op lawyer handles the legal side. **This repo is mostly about the money**: learning enough about co-op finance to make good decisions together, then bringing in a financial professional to review them.
 
@@ -16,7 +16,7 @@ Our co-op lawyer handles the legal side. **This repo is mostly about the money**
 |---|---|
 | [`docs/learning-path/`](docs/learning-path/) | Ten guided steps, from "what's a co-op" to closing. Each has short readings, discussion questions, and what to decide. |
 | [`docs/resources/`](docs/resources/) | Curated, annotated links: [Radish & co-buying](docs/resources/radish-and-cobuying.md), [finance & structures](docs/resources/finance-and-structures.md), [Chicago & Illinois](docs/resources/chicago-illinois.md), [organizations](docs/resources/organizations.md). |
-| [`docs/worksheets/`](docs/worksheets/) | Things to fill in and bring to meetings: the [four-now-two-later worked example](docs/worksheets/scenario-staggered-entry.md), [member snapshot](docs/worksheets/member-snapshot.md), [questions for our lawyer](docs/worksheets/questions-for-our-lawyer.md), [questions for a financial professional](docs/worksheets/questions-for-a-financial-advisor.md), [decision log](docs/worksheets/decision-log.md). |
+| [`docs/worksheets/`](docs/worksheets/) | Things to fill in and bring to meetings: the [two-now-one-later worked example](docs/worksheets/scenario-staggered-entry.md), [member snapshot](docs/worksheets/member-snapshot.md), [questions for our lawyer](docs/worksheets/questions-for-our-lawyer.md), [questions for a financial professional](docs/worksheets/questions-for-a-financial-advisor.md), [decision log](docs/worksheets/decision-log.md). |
 | [`docs/glossary.md`](docs/glossary.md) | Plain-language definitions. |
 
 ## If you only read five things
@@ -24,7 +24,7 @@ Our co-op lawyer handles the legal side. **This repo is mostly about the money**
 2. [The Radish FriendLLC Model Explained](https://supernuclear.substack.com/p/the-radish-friendllc-model-explained) (Supernuclear)
 3. [Guide to Resale Policies](https://uhab.org/resource/guide-to-resale-policies/) (UHAB)
 4. [Holding the Line: Inside Chicago's Trailblazing Housing Cooperatives](https://eps.edu.miami.edu/_assets/pdf/chicago-field-note-new-generation-housing-cooperatives.pdf) (COLA Lab)
-5. Our own [worked example: four members now, two later](docs/worksheets/scenario-staggered-entry.md)
+5. Our own [worked example: two households now, one later](docs/worksheets/scenario-staggered-entry.md)
 
 ## A note on accuracy
 This is educational material collected by members, **not legal, tax, or financial advice**. Links were checked in October 2026. Laws, city programs, and lender terms change. Confirm anything you rely on with our lawyer or financial professional.

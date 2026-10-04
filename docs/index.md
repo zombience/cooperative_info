@@ -7,7 +7,7 @@ hide:
 
 # Cooperative Info
 
-A learning hub for our Chicago housing cooperative: six households (four now, two later), one property, community before profit.
+A learning hub for our Chicago housing cooperative: three households (two now, one later), one 3- or 4-flat, community before profit.
 
 Our co-op lawyer handles the legal side. This site is mostly about **the money**: learning enough about co-op finance to make good decisions together, then bringing in a financial professional to review them.
 
@@ -17,9 +17,9 @@ Our co-op lawyer handles the legal side. This site is mostly about **the money**
 
     Ten guided steps, from "what is a co-op" to closing. Short readings, discussion questions, and the decision each step leads to.
 
--   :material-account-arrow-right: **[Four now, two later](worksheets/scenario-staggered-entry.md)**
+-   :material-account-arrow-right: **[Two now, one later](worksheets/scenario-staggered-entry.md)**
 
-    A worked example of our own situation: the funding gap, four ways to bridge it, and what a departing member gets back.
+    A worked example of our own situation: the funding gap, four ways to cover it, 3-flat vs. 4-flat, and what a departing household gets back.
 
 -   :material-bookshelf: **[Resources](resources/finance-and-structures.md)**
 
@@ -37,7 +37,7 @@ Our co-op lawyer handles the legal side. This site is mostly about **the money**
 2. [The Radish FriendLLC Model Explained](https://supernuclear.substack.com/p/the-radish-friendllc-model-explained) (Supernuclear)
 3. [Guide to Resale Policies](https://uhab.org/resource/guide-to-resale-policies/) (UHAB)
 4. [Holding the Line: Inside Chicago's Trailblazing Housing Cooperatives](https://eps.edu.miami.edu/_assets/pdf/chicago-field-note-new-generation-housing-cooperatives.pdf) (COLA Lab)
-5. Our own [worked example: four members now, two later](worksheets/scenario-staggered-entry.md)
+5. Our own [worked example: two households now, one later](worksheets/scenario-staggered-entry.md)
 
 !!! note "About this site"
     This is educational material collected by members, **not legal, tax, or financial advice**. Links were checked in October 2026; laws, city programs, and lender terms change. Confirm anything you rely on with our lawyer or financial professional. Unfamiliar term? See the [glossary](glossary.md).

@@ -1,7 +1,7 @@
 # Step 9: Governance and decision-making
 
 ## Why it matters for us
-Six households, friendships, and real money. Most co-op failures are people failures, not finance failures. Decide *how* we decide before we need to.
+Three households, six people, friendships, and real money. Most co-op failures are people failures, not finance failures. Decide *how* we decide before we need to.
 
 ## Two layers
 - **Formal (legal):** board of directors, officers, annual meeting, member votes on big items (amending bylaws, selling, refinancing, admitting members). Required by the entity type. The lawyer drafts it.
@@ -16,7 +16,7 @@ Radish found it useful to separate **owner decisions** (capital, refinancing, sa
 | Routine spending under a limit | Repairs under $X | Designated person or committee |
 | Budget, carrying charges | Annual budget | Majority or supermajority vote |
 | Membership | Admitting a new member | Consensus, or a supermajority |
-| Fundamental | Sell, refinance, change the bylaws or equity formula | Supermajority (e.g. 5 of 6), sometimes unanimous |
+| Fundamental | Sell, refinance, change the bylaws or equity formula | Unanimous, or all three households |
 
 "Get as much buy-in as is truly necessary, but never more" ([Group decision-making in coliving](https://supernuclear.substack.com/p/group-decision-making-in-coliving)).
 
@@ -24,7 +24,8 @@ Radish found it useful to separate **owner decisions** (capital, refinancing, sa
 - **Conflict resolution:** an agreed process before anything goes to a vote or a lawyer, such as talking directly, then a facilitated conversation, then outside mediation.
 - **Member who stops paying:** reminders, a payment plan, then formal steps under the occupancy agreement. In Illinois, a co-op can use eviction law against a member ([SELC summary](https://co-oplaw.org/illinois-cooperative-law/)), but have the friendly process first.
 - **Roles:** treasurer and bookkeeper, maintenance coordinator, secretary (keeps the [decision log](../worksheets/decision-log.md)), exemption filer. Rotate them over time.
-- **The later two members:** how they take part before they formally join.
+- **The later household:** how it takes part before formally joining.
+- **One vote per household or per person?** Co-ops usually give one vote per membership (household), so each couple needs its own way of agreeing internally. Decide this explicitly.
 
 ## Read
 - 🟢 [Group decision-making in coliving](https://supernuclear.substack.com/p/group-decision-making-in-coliving) (Supernuclear)
@@ -32,7 +33,7 @@ Radish found it useful to separate **owner decisions** (capital, refinancing, sa
 - 🟡 [Cooperative Housing Toolbox](https://dev.ic.org/communiversity-library/book/cooperative-housing-toolbox/) (Northcountry Cooperative Development). The governance chapters.
 
 ## Discuss
-1. Fill in our version of the decision ladder, with dollar limits.
+1. Fill in our version of the decision ladder, with dollar limits. With three households, a "majority" is 2 of 3, so think about which decisions should need all three.
 2. What's our conflict process?
 3. Who takes on which role in year one?
 

@@ -17,7 +17,7 @@ Plain-language definitions of terms you'll run into. When a term has a Chicago o
 | **Buy-in** | What a new member pays to join (share price, sometimes plus fees). |
 | **Buyout / redemption** | When a departing member's share is purchased, either by an incoming member or by the co-op itself. |
 | **Right of first refusal (ROFR)** | The co-op's right to buy back (or approve the buyer of) a share before it goes to an outsider. |
-| **Treasury share / unsold share** | A share the co-op owns because no member holds it yet. Relevant to us: the two later members' shares could sit as treasury shares until they join. |
+| **Treasury share / unsold share** | A share the co-op owns because no member holds it yet. Relevant to us: the later household's share could sit as a treasury share until it joins. |
 | **Member loan** | Money a member lends to the co-op (separate from buying a share), usually with a set interest rate and repayment schedule. A common way to have early members front money that later members effectively repay. |
 | **Replacement reserve** | Savings held by the co-op for big future costs (roof, boiler, porches, tuckpointing). Sized by a **reserve study**. |
 | **Operating reserve** | A cushion for short-term surprises, like a vacant unit or a late payment. Often 3 to 6 months of expenses. |
