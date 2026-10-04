@@ -12,6 +12,7 @@ This is where our values ("community over profit") meet the reality that people 
 
 ## Designing a limited-equity formula
 Typical ingredients (see [UHAB's guide](https://uhab.org/resource/guide-to-resale-policies/)):
+
 - **Base:** what the member paid for their share.
 - **Growth:** a fixed % per year (2 to 3% is common), or tied to inflation (CPI), sometimes with a cap.
 - **Improvements:** credit for improvements the board approved, often depreciated over time.

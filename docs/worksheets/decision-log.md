@@ -8,15 +8,15 @@ Copy the template below for each decision. Newest at the top.
 
 ### Template
 
-**Decision:** _one sentence_
-**Date:** YYYY-MM-DD
-**Who was present / voted:**
-**Options considered:**
-1.
-2.
-**What we chose and why:**
-**Open questions / revisit by:**
-**Links:** _to notes, emails, lawyer memos_
+- **Decision:** _one sentence_
+- **Date:** YYYY-MM-DD
+- **Who was present / voted:**
+- **Options considered:**
+    1.
+    2.
+- **What we chose and why:**
+- **Open questions / revisit by:**
+- **Links:** _to notes, emails, lawyer memos_
 
 ---
 

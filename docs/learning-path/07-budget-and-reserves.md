@@ -6,6 +6,7 @@ The monthly budget is where a co-op lives or dies. Underfunded reserves are the 
 ## A co-op operating budget
 **Income:** carrying charges from members, plus any rent or other income.
 **Expenses:**
+
 - Mortgage principal and interest
 - Property taxes (net of homestead exemptions passed through to members)
 - Master insurance (property, liability, directors and officers)
