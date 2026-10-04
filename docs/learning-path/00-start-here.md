@@ -3,7 +3,7 @@
 This path is **loosely guided**. Work through it roughly in order, as a group, skipping what you already know. Each step has:
 
 - **Why it matters for us.** The connection to our situation: six households, four now and two later, one Chicago property, community over profit.
-- **Read.** A small number of chosen links, usually 1 to 3, under an hour total. More are in [resources](../resources/).
+- **Read.** A small number of chosen links, usually 1 to 3, under an hour total. More are in the [resource pages](../resources/finance-and-structures.md).
 - **Discuss.** Questions to talk through together.
 - **Decide or record.** What should land in the [decision log](../worksheets/decision-log.md).
 

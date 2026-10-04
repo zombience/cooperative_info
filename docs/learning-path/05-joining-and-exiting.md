@@ -5,6 +5,7 @@
 
 ## Start with the worked example
 Read **[Worked example: four members now, two later](../worksheets/scenario-staggered-entry.md)**. It walks through real-looking numbers for:
+
 - the funding gap the later two members leave at closing,
 - four ways to bridge it (member loans, deposits, founders buying the extra shares, borrowing more),
 - monthly costs while two spaces are filled (or not),

@@ -5,6 +5,7 @@ Taxes shape both monthly costs and which structure makes sense. Chicago has thre
 
 ## Federal income tax: Section 216
 If we form a true housing co-op that qualifies under [IRC § 216](https://www.law.cornell.edu/uscode/text/26/216), each member can deduct their share of the co-op's mortgage interest and property taxes, much like a homeowner. To qualify, the co-op needs:
+
 - **one class of stock**, and
 - one of three tests: 80% of income from member-residents, 80% of floor space used by member-residents, or 90% of spending on the property.
 

@@ -30,7 +30,11 @@ Our co-op lawyer handles the legal side. **This repo is mostly about the money**
 This is educational material collected by members, **not legal, tax, or financial advice**. Links were checked in October 2026. Laws, city programs, and lender terms change. Confirm anything you rely on with our lawyer or financial professional.
 
 ## Contributing
-Found a good article? See [CONTRIBUTING.md](CONTRIBUTING.md). **Never commit personal financial details**, because the repo may be shared.
+Found a good article? See [CONTRIBUTING.md](CONTRIBUTING.md). **Never commit personal financial details.** Remember that everything under `docs/` is public on the website.
 
-## Later
-Everything lives under `docs/`, so this can become a [GitHub Pages](https://docs.github.com/en/pages) site by serving from the `docs/` folder.
+## The website
+The `docs/` folder is published as a website (built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)) at **https://zombience.github.io/cooperative_info/**. It rebuilds automatically each time a change is merged into `main`.
+
+**What's public and what's private.** The repository is private, but **the website is public**. Anything under `docs/` will be visible to anyone with the link. Anything outside `docs/` (for example the [`private/`](private/) folder) stays in the private repository and is never published.
+
+To preview the site on your own computer: `pip install -r requirements-docs.txt`, then `mkdocs serve`, then open http://127.0.0.1:8000.

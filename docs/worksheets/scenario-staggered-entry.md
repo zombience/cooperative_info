@@ -79,6 +79,7 @@ Using a limited-equity formula of "price paid + 3% per year + approved improveme
 
 ## Try it yourself
 Change the assumptions and recompute. Questions to answer as a group:
+
 1. Which bridging option fits our members' cash?
 2. If a later member doesn't join, what happens and who decides?
 3. What resale formula feels fair to both an exiting founder and an incoming member 10 years from now?
